@@ -114,7 +114,7 @@
   margin-top: 0;
 }
 #app-mount .botText_a9e77f {
-  font-weight: 600;
+  font-weight: 1200;
 }
 #app-mount .botTagInvert-18-95s {
   color: rgb(var(--gradient-primary));
@@ -185,7 +185,7 @@ button,
 input,
 select,
 textarea {
-  font-family: var(--font, "gg sans"), "gg sans";
+  font-family: var(--font, "Ithaka"), "Ithaka";
 }
 
 #app-mount .tooltip_b6c360 {
@@ -890,7 +890,7 @@ textarea {
   margin-top: 0;
 }
 #app-mount .member_a31c43.selected_d808b0 .botText_a9e77f {
-  font-weight: 900;
+  font-weight: 1200;
 }
 #app-mount .member_a31c43.selected_d808b0 .premiumIcon-1rDbWQ {
   color: var(--text-normal);
